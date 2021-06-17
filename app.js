@@ -10,4 +10,4 @@ const down = () => {
 }
 
 document.body.addEventListener('keydown', up);
-document.body.addEventListener('keyup', down);+
+document.body.addEventListener('keyup', down);
